@@ -87,7 +87,7 @@ Containing offer ids and meta data about each offer (duration, type, etc.):
 
 The following reflects that there are 10 different types of id, with 3 types of offer: BOGO, discount, informational, which communicate with different channels such as web, email, mobile and social. 
 
-![](https://raw.githubusercontent.com/gustavovenegas2010/Proyecto-1/main/Imagenes/19.jpeg)
+![](https://raw.githubusercontent.com/gustavovenegas2010/Proyect_4/main/Imagenes/1.PNG)
 
 
 
