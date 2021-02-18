@@ -189,7 +189,7 @@ Next, the three databases are merged together
 
 **It is also observed that in the completed offers there is a slight preference for customers with higher incomes.**
 
-## Results
+## 4. Results
 
 **Next, we create the pipelines for the data transformation, with the objective of building a solid database to create a logistic regression model.**
 
