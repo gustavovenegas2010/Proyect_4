@@ -28,7 +28,7 @@ The metrics to be used are descriptive statistics measures, such as the mean, me
 
 ## 2. Descriptive and exploratory analysis
 
-# read in the json files
+### read in the json files
 
 portfolio = pd.read_json('portfolio.json', orient='records', lines=True)
 
@@ -151,7 +151,7 @@ In the Transcript dataset, the rows related to the offer action are extracted, t
 
 ![](https://raw.githubusercontent.com/gustavovenegas2010/Proyect_4/main/Imagenes/14.PNG)
 
-## 3.2 Implementation
+## 3.2 Implementation and Refinement
 
 Next, the three databases are merged together
 
