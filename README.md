@@ -30,13 +30,18 @@ transcript.json — records for transactions, offers received, offers viewed, an
 
 The Jupyter Notebook includes the following steps
 
-1. Introduction:a brief overview of the project and its objectives is given.
-2. Library and Import database: the libraries and datasets used for the development of the work are cited.
-3. Database description: a descriptive statistical analysis is generated for the three datasets used and the most significant variables
-4. Data Cleaning and Preparing: In this section we clean and prepare the data for each database supplied, let’s start with the first dataset
-5. Final basis: the final base is generated, after having joined the previous datasets and their bivariate analyzes.
-6. Data Modeling: Pipelines are created for data transformation, with the objective of building a solid database to create a logistic regression model.
-7. Conclusion:conclusions are generated on the types of offers, demographic variables of the clients and their communication channels
+1. Project Definition:a brief overview of the project and its objectives is given.
+* Project Overview
+* Problem Statement
+* Metrics
+2. Descriptive and exploratory analysis: A descriptive statistical analysis is generated for the three data sets used and the most significant variables, accompanied by their discussions and data visualization.
+3. Methodology Data Cleaning and Preparing: In this section we clean and prepare the data for each database provided, as well as carry out the implementation through algorithms and metrics.
+* Data Preprocessing
+* Implementation and Refinement
+4. Resultss: the results obtained by the models are analyzed and are consistent with the previous descriptive analyzes.
+5. Conclusion:conclusions are generated on the types of offers, demographic variables of the clients and their communication channels.
+* Reflection
+* Improvement
 
 ## Results<a name="results"></a>
 
